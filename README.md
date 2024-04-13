@@ -7,13 +7,13 @@ RSVP Movies aims to strategically plan their upcoming global audience-focused mo
 
 Insight:
 
-Drama emerges as the most popular genre with 4285 movies and an average rating of 7.46, suggesting a potential focus area for RSVP Films. Action and suspense genres also show promise.
-Dream Warrior Pictures and the National Theatre are identified as producers of high-quality live-action movies, with Star Cinemas and Twentieth Century Fox as strong competitors in the Indian market.
-Studios like Star Cinema and Twentieth Century Fox stand out for multilingual films with high average ratings (>= 8).
-Notable directors for collaboration include James Mangold, Anthony Russo, Joe Russo, and Soubin Shahir, based on their successful track records.
-March is observed as the most popular month for movie shootings, indicating a trend worth considering for scheduling future productions.
-Collaborative opportunities with top studios and directors, as well as actors like Mammooty and Mohanlal, can enhance project outcomes.
-Emphasis on achieving average ratings of 8+ to increase the likelihood of producing super-hit movies.
-Taapsee Pannu emerges as a potential cast choice with an average rating of 7.74 and significant viewer votes.
-Marvel Studios, Twentieth Century Fox, and Warner Bros. are favored international partners, based on viewer preferences.
-Vijay Sethupati holds significant popularity in the Indian market, suggesting potential collaboration opportunities for regional projects.
+1. Drama emerges as the most popular genre with 4285 movies and an average rating of 7.46, suggesting a potential focus area for RSVP Films. Action and suspense genres also show promise.
+2. Dream Warrior Pictures and the National Theatre are identified as producers of high-quality live-action movies, with Star Cinemas and Twentieth Century Fox as strong competitors in the Indian market.
+3. Studios like Star Cinema and Twentieth Century Fox stand out for multilingual films with high average ratings (>= 8).
+4. Notable directors for collaboration include James Mangold, Anthony Russo, Joe Russo, and Soubin Shahir, based on their successful track records.
+5. March is observed as the most popular month for movie shootings, indicating a trend worth considering for scheduling future productions.
+6. Collaborative opportunities with top studios and directors, as well as actors like Mammooty and Mohanlal, can enhance project outcomes.
+7. Emphasis on achieving average ratings of 8+ to increase the likelihood of producing super-hit movies.
+8. Taapsee Pannu emerges as a potential cast choice with an average rating of 7.74 and significant viewer votes.
+9. Marvel Studios, Twentieth Century Fox, and Warner Bros. are favored international partners, based on viewer preferences.
+10. Vijay Sethupati holds significant popularity in the Indian market, suggesting potential collaboration opportunities for regional projects.
